@@ -1,0 +1,129 @@
+1. In Java 8 Interfaces, methods can be:
+
+a.default
+b.abstract
+> c.all
+d.none
+
+2. What can help us in avoiding NullPointeExceptions and null checks in java 8 -
+
+> a.Optional
+b.Required
+c.NotNull
+d.NotRequired
+
+3. What is Predicate in Java 8 -
+
+a.method
+b.class
+> c.Interface
+d.Framework
+
+4. Example of functional interfaces in Java 8 -
+
+a.java.util.concurrent.Callable
+b.java.lang.Runnable
+> c.All
+d.None
+
+
+5. Lambda expressions are __________ scoped
+
+> a.Lexically
+b.Semantically
+c.Binary
+d.None
+
+6. Which of these does Stream filter() operates on
+
+> a.Predicate
+b.Interface
+c.Class
+d.Methods
+
+7. Which of these does Stream map() operates on
+
+a.Class
+b.Interface
+c.Predicate
+> d.Function
+
+
+8. In Java 8 interfaces, methods can be ______
+A default
+B abstract
+> C Both A and B are true.
+D None of the above
+
+9. Stream operations in java 8 can be divided into _____
+A Terminal operation
+B Intermediate operation
+> C Both A and B are true.
+D None of the above
+
+
+10. What does SAM mean in the context of the functional interface?
+A Simple Abstract Markup
+B Simple Active Markup
+> C Single Abstract Method
+D Single Ambivalue Method
+
+11. Which of the following is an aggregation operator in Java 8?
+A filter
+B forEach
+C map
+> D All the answers are true
+
+12. What is the return type of lambda expression?
+a) String
+b) Object
+c) void
+> d) Function
+
+13. Which design pattern ensures that only one object of particular class gets created?
+> a) Singleton pattern
+b) Filter pattern
+c) State pattern
+d) Bridge pattern
+
+14. Which design pattern provides a single class which provides simplified methods required by client and delegates call to those methods?
+a) Adapter pattern
+b) Builder pattern
+> c) Facade pattern
+d) Prototype pattern
+
+15. Is design pattern a logical concept.
+> a) True
+b) False
+
+16. Which design patterns are specifically concerned with communication between objects?
+
+A. Creational Patterns
+B. Structural Patterns
+> C. Behavioral Patterns
+D. J2EE Patterns
+
+17. Can we create a clone of a singleton object?
+
+> A. Yes
+B. No
+C. Can be yes or no
+D. Can not say
+
+18. Define the skeleton of an algorithm in an operation, deferring some steps to subclasses. It lets subclasses redefine certain steps of an algorithm without changing the algorithm structure.
+A. Chain of responsibility
+> B. Template method
+C. Interpretor
+D. Prototype
+
+19. Attach additional responsibilities to an object dynamically. It provides a flexible alternative to subclassing for extending functionality. Which design pattern is followed here?
+A. Chain of responsibility
+B. Adapter
+> C. Decorator
+D. Composite
+
+20. Define one-to-many dependency between objects so that when one object change state, all its dependent are notified and updated automatically. Which design pattern is followed here?
+A. Chain of responsibility
+B. Event Notification
+C. Mediator
+> D. Observer
